@@ -1,4 +1,4 @@
-# 3-week-practice
+# vue-cli-practice
 
 ## Project setup
 ```
@@ -14,4 +14,3 @@ npm run serve
 ```
 npm run build
 ```
-# vue-cli-practice
